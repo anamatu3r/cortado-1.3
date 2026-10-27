@@ -1,2 +1,2 @@
-# cortado-1.3
-can i write a better interpreter 3 years later?
+# Cortado 1.3
+that number looks so wrong smh
